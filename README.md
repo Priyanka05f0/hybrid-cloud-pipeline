@@ -139,12 +139,9 @@ SELECT * FROM records;
 ```
 Sample Output:
 
-+----+---------+-------------+----------------------------+
-| id | name    | course      | processed_timestamp        |
-+----+---------+-------------+----------------------------+
-| 3  | Lakshmi | HybridCloud | 2026-04-29T18:06:26.344773 |
-+----+---------+-------------+----------------------------+
-(1 row in set)
+| id | name | course | processed_timestamp |
+|:---|:---|:---|:---|
+| 3 | Lakshmi | HybridCloud | 2026-04-29T18:06:26.344773 |
 
 ### Key Features
 - Hybrid cloud architecture
